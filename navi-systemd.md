@@ -1,4 +1,4 @@
-% systemctl
+% toulliou, systemctl
 
 # Démarrer un service 
-systemctl start <SERVICE>
+systemctl start
